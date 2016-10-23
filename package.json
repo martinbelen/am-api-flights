@@ -1,0 +1,25 @@
+{
+  "name": "am-api-flights",
+  "main": "index.js",
+  "optionalDependencies": {},
+  "readmeFilename": "README.md",
+  "version": "0.1.0",
+  "private": false,
+  "engines": {
+    "node": "6.2.x",
+    "npm": "3.9.x"
+  },
+  "author": {
+    "name": "Inmigrantes"
+  },
+  "description": "Serve flights",
+  "dependencies": {
+    "axios": "^0.15.2"
+  },
+  "devDependencies": {
+    "eslint": "^3.8.1",
+    "eslint-config-standard": "^6.2.0",
+    "eslint-plugin-promise": "^3.3.0",
+    "eslint-plugin-standard": "^2.0.1"
+  }
+}
