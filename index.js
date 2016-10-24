@@ -1,5 +1,1 @@
-'use strict';
-
-module.exports.default = {
-	Flights : require('../lib/FlightService')
-};
+module.exports = require('./lib/FlightService');

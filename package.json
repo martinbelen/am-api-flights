@@ -14,7 +14,7 @@
   },
   "description": "Serve flights",
   "dependencies": {
-    "request": "^2.75.0"
+    "axios": "^0.15.2"
   },
   "devDependencies": {
     "eslint": "^3.8.1",
