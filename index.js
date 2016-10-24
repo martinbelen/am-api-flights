@@ -1,1 +1,1 @@
-module.exports = require('./lib/FlightService');
+module.exports = require('./lib/flight.service');
