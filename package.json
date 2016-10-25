@@ -14,7 +14,8 @@
   },
   "description": "Serve flights",
   "dependencies": {
-    "axios": "^0.15.2"
+    "axios": "^0.15.2",
+    "am-urlparser": "git@github.com:martinbelen/urlparser.git"
   },
   "devDependencies": {
     "eslint": "^3.8.1",
