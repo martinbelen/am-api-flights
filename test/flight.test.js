@@ -7,6 +7,7 @@ describe('Fligth',() => {
 			FlightService.getFlights()
 			.then((response) => {
 				assert.ok(response);
+				done();
 			})
 			.catch((error) => {
 				done(error);
